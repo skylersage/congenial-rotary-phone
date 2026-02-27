@@ -1,0 +1,497 @@
+[
+  {
+    "question": "The keys on the keyboard which may be programmed to do special takes are the:",
+    "options": ["Function keys", "Navigation keys", "Arrow keys", "Numeric keys"],
+    "answer": "Function keys"
+  },
+  {
+    "question": "UNIVAC belongs to:",
+    "options": ["Third generation of computer", "Fourth generation of computer", "First generation and second generation of computer", "Fifth generation of computer"],
+    "answer": "First generation and second generation of computer"
+  },
+  {
+    "question": "How can you protect your computer from sudden power failure?",
+    "options": ["Using stabilizer", "Using generator", "Using UPS", "Using volt guard"],
+    "answer": "Using UPS"
+  },
+  {
+    "question": "Which is the latest operating system?",
+    "options": ["Windows XP", "Windows 10", "DOS", "Windows 98"],
+    "answer": "Windows 10"
+  },
+  {
+    "question": "Which of the following is the major characteristic of computer?",
+    "options": ["Diligent", "Non intelligent", "Automatic", "All of the above"],
+    "answer": "Automatic"
+  },
+  {
+    "question": "The speed of CPU is measured in:",
+    "options": ["Mbps", "MHZ", "Microsecond", "Mbytes"],
+    "answer": "MHZ"
+  },
+  {
+    "question": "Cache memory......",
+    "options": ["Stores data's permanently", "Holds last time visited web site only", "Helps to store more data in hard disk", "Placed between the main memory and microprocessor"],
+    "answer": "Placed between the main memory and microprocessor"
+  },
+  {
+    "question": "To send and receive email your computer should have:",
+    "options": ["Sound card", "AGP card", "Modem", "All of the above"],
+    "answer": "Modem"
+  },
+  {
+    "question": "DVD belongs to......",
+    "options": ["Magnetic storage", "Optical storage", "Main storage", "Non volatile"],
+    "answer": "Optical storage"
+  },
+  {
+    "question": "Program developed according to the requirement to an office is...",
+    "options": ["Packaged software", "Tailored software", "Utility software", "All of the above"],
+    "answer": "Tailored software"
+  },
+  {
+    "question": "A dot matrix printer is......",
+    "options": ["Input device", "Output device", "Cannot print alphabet", "Can not print number"],
+    "answer": "Output device"
+  },
+  {
+    "question": "All peripheral devices connected to computer system are known as...",
+    "options": ["Keyboard", "Hardware", "Software", "Application"],
+    "answer": "Hardware"
+  },
+  {
+    "question": "Computer is a system having...",
+    "options": ["Storage", "I/O devices", "CPU", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Who was the first to conceptualize and design a fully programmable mechanical computer analytical engine?",
+    "options": ["Laday Ada", "Bill Gate", "Charles Babbage", "No one of the above"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Which is not a characteristic of computer?",
+    "options": ["Automatic", "Lazy", "High speed", "Accurate"],
+    "answer": "Lazy"
+  },
+  {
+    "question": "Which one has the highest storage capacity?",
+    "options": ["CD", "DVD", "Floppy disk", "Hard disk"],
+    "answer": "Hard disk"
+  },
+  {
+    "question": "Mouse is an......device.",
+    "options": ["Input", "CPU", "Output", "Processor"],
+    "answer": "Input"
+  },
+  {
+    "question": "Storage capacity of hard disk is measured in......",
+    "options": ["Terabyte", "Gigabyte", "Megabyte", "Both a and b"],
+    "answer": "Gigabyte"
+  },
+  {
+    "question": "Fastest memory of computer system is......",
+    "options": ["Hard disk", "Firmware", "Cache memory", "CD"],
+    "answer": "Cache memory"
+  },
+  {
+    "question": "CPU is brain of computer then CU is....",
+    "options": ["Head of computer", "Nerve center of computer", "Tail of computer", "Main memory of computer"],
+    "answer": "Nerve center of computer"
+  },
+  {
+    "question": "Purpose of sorting is......",
+    "options": ["Chronologically", "Alphabetically", "Numerically", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which one of the following matches on monitor?",
+    "options": ["It is an output device", "Color resolution", "Color depth", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Feature of USB is...",
+    "options": ["Speed, expansion", "Slow, down", "Both of the above", "None of the above"],
+    "answer": "Speed, expansion"
+  },
+  {
+    "question": "First generation computer is used for...",
+    "options": ["IC chips", "Micro Chips", "Vacuum tubes", "All of the above"],
+    "answer": "Vacuum tubes"
+  },
+  {
+    "question": "Pixel point is used to...",
+    "options": ["VGA", "EGA", "SVGA", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The memory of the hard disk is......",
+    "options": ["Primary memory", "Auxiliary memory", "Volatile memory", "All of the above"],
+    "answer": "Auxiliary memory"
+  },
+  {
+    "question": "Eight bits equals to......",
+    "options": ["One byte", "One nibble", "One kilo byte", "One giga byte"],
+    "answer": "One byte"
+  },
+  {
+    "question": "Which of the following is /are not programming language?",
+    "options": ["BASIC", "COBOL", "DDL", "APL"],
+    "answer": "DDL"
+  },
+  {
+    "question": "The program translates line by line of source program is......",
+    "options": ["Compiler", "Assembler", "Interpreter", "Translator"],
+    "answer": "Interpreter"
+  },
+  {
+    "question": "The first calculation machine Abacus is used in.....",
+    "options": ["China, 2000BC", "Japan 1600 BC", "India 3000BC", "None of the above"],
+    "answer": "China, 2000BC"
+  },
+  {
+    "question": "Low level language is....",
+    "options": ["Basic", "Assembly", "JAVA", "All of the above"],
+    "answer": "Assembly"
+  },
+  {
+    "question": "A unit of 1024 bytes is......",
+    "options": ["1MB", "1KB", "1GB", "1TB"],
+    "answer": "1KB"
+  },
+  {
+    "question": "The computer driver is.....",
+    "options": ["Hardware controller", "Data controller", "Hardware and game control", "All of the above"],
+    "answer": "Hardware controller"
+  },
+  {
+    "question": "Impact printer is ......",
+    "options": ["Laser printer", "Inkjet printer", "Dot matrix printer", "Bubble jet printer"],
+    "answer": "Dot matrix printer"
+  },
+  {
+    "question": "Digital computer handles....",
+    "options": ["Continuous data", "Discrete data", "Textual data", "None of the above"],
+    "answer": "Discrete data"
+  },
+  {
+    "question": "Which one is odd?",
+    "options": ["Monitor", "Console", "Screen", "Printer"],
+    "answer": "Console"
+  },
+  {
+    "question": "Which one is not hardware?",
+    "options": ["Zip drive", "Hard disk", "Zip disk", "NIC"],
+    "answer": "Zip drive"
+  },
+  {
+    "question": "Which is used in binary code?",
+    "options": ["EBDCDIC", "ASCII", "ANSI", "No one of the above"],
+    "answer": "EBDCDIC"
+  },
+  {
+    "question": "SVGA is related to....",
+    "options": ["Printer", "Monitor", "CPU", "ALL"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "From which technology CD ROM format?",
+    "options": ["Optical", "Optical fiber", "Mechanical", "Electro mechanical"],
+    "answer": "Optical"
+  },
+  {
+    "question": "Which is popular secondary storage device?",
+    "options": ["Disk", "Floppy disk", "Tape disk", "No one of the above"],
+    "answer": "Disk"
+  },
+  {
+    "question": "Which one is not a valid floppy disk capacity?",
+    "options": ["1.24", "1.44", "360", "720"],
+    "answer": "1.24"
+  },
+  {
+    "question": "Which device is used to relation for computer and user?",
+    "options": ["Software", "Hardware", "Peripheral", "Memory"],
+    "answer": "Peripheral"
+  },
+  {
+    "question": "OCR (Optical Character Reader) is......",
+    "options": ["A output device", "Storage", "Device", "A direct input device"],
+    "answer": "A direct input device"
+  },
+  {
+    "question": "In case of micro computer hard disk drive is known as......",
+    "options": ["Removable disk", "Portable disk", "Fixed disk", "All of the above"],
+    "answer": "Fixed disk"
+  },
+  {
+    "question": "To protect our PC from sudden interruption of commercial line we need...",
+    "options": ["UPS", "Volt Guard", "Stabilizer", "All the above"],
+    "answer": "UPS"
+  },
+  {
+    "question": "Which device is known as mass storage device?",
+    "options": ["Hard disk drive", "Floppy disk drive", "Punched card", "No one of the above"],
+    "answer": "Hard disk drive"
+  },
+  {
+    "question": "Which computer falls on the basic model?",
+    "options": ["Micro computer", "Analog computer", "IBM compatible", "XT computer"],
+    "answer": "XT computer"
+  },
+  {
+    "question": "Biochip falls on",
+    "options": ["First generation", "Second generation", "Third generation", "Fifth generation"],
+    "answer": "Fifth generation"
+  },
+  {
+    "question": "Napier's Bone was developed by......",
+    "options": ["John Napier in 1614", "John Neumann in 1618", "Charles Babbage in 1812", "Herman Hollerith in 1887"],
+    "answer": "John Napier in 1614"
+  },
+  {
+    "question": "Which one is not known as computer system?",
+    "options": ["Input section", "Display section", "Output section", "Processing section"],
+    "answer": "Display section"
+  },
+  {
+    "question": "How many memory location can 14 address bits access?",
+    "options": ["16,384", "8,192", "4,096", "14"],
+    "answer": "16,384"
+  },
+  {
+    "question": "What one is not a feature of magnetic tape?",
+    "options": ["It can be reused", "It is a sequential accessing device", "Data accessing rate is very low", "Data cannot transfer from this device to hard disk"],
+    "answer": "Data cannot transfer from this device to hard disk"
+  },
+  {
+    "question": "The computer that works on the basic of signal produced to the variation in physical quantities?",
+    "options": ["Hybrid computer", "Mainframe computer", "Analog computer", "Mini computer"],
+    "answer": "Analog computer"
+  },
+  {
+    "question": "The system diagnostic program stored on ROM is called...",
+    "options": ["Livewire", "Firmware", "System software", "Application software"],
+    "answer": "Firmware"
+  },
+  {
+    "question": "A part of computer that stores data and information temporarily...",
+    "options": ["ROM", "RAM", "DISK", "CD-ROM"],
+    "answer": "RAM"
+  },
+  {
+    "question": "The main circuit board containing the vital component of a PC",
+    "options": ["Hard disk", "Sound card", "Mother Board", "MODEM"],
+    "answer": "Mother Board"
+  },
+  {
+    "question": "Set of code that used in writing a program is",
+    "options": ["Statement", "Line", "Paragraph", "Commands"],
+    "answer": "Statement"
+  },
+  {
+    "question": "The device that gives us soft copy output is...",
+    "options": ["Printer", "Monitor", "Plotter", "No one of the above"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "One thousand of second is called",
+    "options": ["Microsecond", "Millisecond", "Nanosecond", "Picoseconds"],
+    "answer": "Millisecond"
+  },
+  {
+    "question": "The Logarithm is the concept of:",
+    "options": ["Herman Hollerith", "John Von Neumann", "Charles Babbage", "Picoseconds"],
+    "answer": "John Von Neumann"
+  },
+  {
+    "question": "Which of the following statements is true about a computer?",
+    "options": ["A machine for making calculation automatically", "A machine for making calculations numerical data", "A machine developed by a human", "All of the above"],
+    "answer": "A machine developed by a human"
+  },
+  {
+    "question": "Data processing is the method of...",
+    "options": ["Collecting the data", "Converting the data into machine code", "Collecting and converting the data into useful information", "All of the above"],
+    "answer": "Collecting and converting the data into useful information"
+  },
+  {
+    "question": "Key board is an input device which is used to",
+    "options": ["Get output of the raw data", "Enter information", "Both a and b", "None of the above"],
+    "answer": "Enter information"
+  },
+  {
+    "question": "Together the control unit and ALU is called...",
+    "options": ["Computer", "Memory", "Input device", "CPU"],
+    "answer": "CPU"
+  },
+  {
+    "question": "The CPU of a Micro Computer is also called the ...",
+    "options": ["Computer", "Microprocessor", "Box", "All of the above"],
+    "answer": "Microprocessor"
+  },
+  {
+    "question": "A computer program is ......Which receive input and processes it to give the desired output?",
+    "options": ["Set of instructions", "Device", "Memory", "All of the above"],
+    "answer": "Set of instructions"
+  },
+  {
+    "question": "Who developed the first machine called \"Difference Engine\"?",
+    "options": ["Pascal", "Laday Ada", "Charles Babbage", "Leibnitz"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Who developed the first computer that could store data and instructions?",
+    "options": ["Charles Babbage", "Pascal", "Herman Hollerith", "John von Neumann"],
+    "answer": "John von Neumann"
+  },
+  {
+    "question": "Punched card was developed by",
+    "options": ["Charles Babbage", "Microsoft company", "Leibnitz", "No one of the above"],
+    "answer": "No one of the above"
+  },
+  {
+    "question": "Which of the following input device is also known as memory device?",
+    "options": ["Keyboard", "Punch card", "Joystick", "No one of the above"],
+    "answer": "Punch card"
+  },
+  {
+    "question": "All touchable parts of the computer are known as",
+    "options": ["Application software", "System software", "Both a and b", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "question": "A special kind of software which is supplied by the hardware manufacture is known as",
+    "options": ["Hardware", "Machine", "Firmware", "Liveware"],
+    "answer": "Firmware"
+  },
+  {
+    "question": "A character is equal to",
+    "options": ["One bit", "One byte", "4bits", "All of the above"],
+    "answer": "One byte"
+  },
+  {
+    "question": "1GB is equal to ......",
+    "options": ["10^9 Bytes", "10^10 Bytes", "10^11 Bytes", "10^12 Bytes"],
+    "answer": "10^9 Bytes"
+  },
+  {
+    "question": "On which of the computer can multiple users work at a time simultaneously?",
+    "options": ["PC computer", "Micro Computer", "Mainframe computer", "None of the above"],
+    "answer": "Mainframe computer"
+  },
+  {
+    "question": "Micro computers are further classified as below......",
+    "options": ["PC", "PC-XT", "PC-AT", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "question": "The concept of artificial intelligence is for",
+    "options": ["Second generation", "Third generation", "Fourth generation", "Fifth generation"],
+    "answer": "Fifth generation"
+  },
+  {
+    "question": "Which of the following statement is true about BUS?",
+    "options": ["A software which is used to transfer data", "A method of transferring files", "A communication path way over which information and signal are transferred", "All of the above"],
+    "answer": "A communication path way over which information and signal are transferred"
+  },
+  {
+    "question": "Which of the following printer is noisier?",
+    "options": ["Laser printer", "Daisy wheel printer", "Inject printer", "No one of the above"],
+    "answer": "Daisy wheel printer"
+  },
+  {
+    "question": "640x480, 800x600 and 1024x768 are examples of...",
+    "options": ["Color depth", "Multiplication problems that you would need to use a calculator to solve", "Screen resolution", "None of the above"],
+    "answer": "Screen resolution"
+  },
+  {
+    "question": "Collection of raw facts and figures, which are collected for specific purpose is called:",
+    "options": ["Information", "Data", "Object", "Input"],
+    "answer": "Data"
+  },
+  {
+    "question": "The processed and refined data is referred to as:",
+    "options": ["Information", "Data", "Object", "Input"],
+    "answer": "Information"
+  },
+  {
+    "question": "The computing and communication technologies are combined together for:",
+    "options": ["Data sorting", "Searching of data", "Classification of data", "Communication of data"],
+    "answer": "Communication of data"
+  },
+  {
+    "question": "Data processing is also called:",
+    "options": ["Information system", "Information technology", "Computing", "Calculating"],
+    "answer": "Computing"
+  },
+  {
+    "question": "An electronic device that accepts, processes data and controls over activities during processing is called:",
+    "options": ["Input device", "Output device", "Computer", "Operating system"],
+    "answer": "Computer"
+  },
+  {
+    "question": "The data and program are stored permanently on the:",
+    "options": ["RAM", "Secondary memory", "CPU", "Primary storage"],
+    "answer": "Secondary memory"
+  },
+  {
+    "question": "The electronic circuit that are the part of the circuit are called:",
+    "options": ["Software", "Firmware", "Hardware", "Shareware"],
+    "answer": "Hardware"
+  },
+  {
+    "question": "Which of the following is not a hardware component?",
+    "options": ["Input devices", "Operating system", "Processor", "Secondary storage"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "Which of the following is not an input device?",
+    "options": ["Keyboard", "Speaker", "Mouse", "Microphone"],
+    "answer": "Speaker"
+  },
+  {
+    "question": "Which of the following is an output device?",
+    "options": ["Keyboard", "Speaker", "Mouse", "Microphone", "Monitor", "RAM", "Printer"],
+    "answer": "Speaker"
+  },
+  {
+    "question": "Which of the following is not an output device?",
+    "options": ["RAM", "ROM", "CPU", "CD-ROM"],
+    "answer": "ROM"
+  },
+  {
+    "question": "Which of the following is not a secondary storage device?",
+    "options": ["Hard disk drive", "CD-ROM drive", "ROM", "Tape drive"],
+    "answer": "Tape drive"
+  },
+  {
+    "question": "Which of the following is not an internal part of computer?",
+    "options": ["Monitor", "Computer bus", "CD-ROM drive", "Computer buses"],
+    "answer": "CD-ROM drive"
+  },
+  {
+    "question": "Which of the following is not used as inter connector?",
+    "options": ["Cable", "Ports", "CD-ROM drive", "Computer buses"],
+    "answer": "Cable"
+  },
+  {
+    "question": "______ is any data or instructions sent to the computer.",
+    "options": ["Digital", "Output", "Information", "Input"],
+    "answer": "Information"
+  },
+  {
+    "question": "The input device most commonly used to enter text would be the:",
+    "options": ["Mouse", "Microphone", "Keyboard", "Bar code reader"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Most keyboards use an arrangement of keys given the name:",
+    "options": ["Dvork", "QWERTY", "Unicode", "CISC"],
+    "answer": "QWERTY"
+  },
+  {
+    "question": "A full-sized, rigid, rectangular keyboard that includes function, navigational, and numeric keys is this type.",
+    "options": ["PDA keyboard", "Wireless keyboard", "Traditional keyboard", "Flexible keyboard"],
+    "answer": "Traditional keyboard"
+  }
+]

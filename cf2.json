@@ -1,0 +1,502 @@
+[
+  {
+    "question": "In which generation transistor is used?",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "answer": "2nd"
+  },
+  {
+    "question": "Which device cannot be shared in network?",
+    "options": ["Floppy", "Keyboard", "Computer", "Printer"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "Which port does not exist in computer?",
+    "options": ["USB", "Parallel", "COM 1/Com 2", "No one of the above"],
+    "answer": "No one of the above"
+  },
+  {
+    "question": "1 nibble contains......bit",
+    "options": ["8bits", "3bits", "1 byte", "4bits"],
+    "answer": "4bits"
+  },
+  {
+    "question": "Which device will process data?",
+    "options": ["RAM", "CPU", "Hard disk", "None"],
+    "answer": "CPU"
+  },
+  {
+    "question": "Data store in ...",
+    "options": ["Floppy", "Hard disk", "Tape", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "One nanosecond means",
+    "options": ["10^(-6) seconds", "10^(-9) seconds", "10^(-12) seconds", "10^(-15) seconds"],
+    "answer": "10^(-9) seconds"
+  },
+  {
+    "question": "The decimal equivalent of binary (1011) is......",
+    "options": ["13", "10", "11", "14"],
+    "answer": "11"
+  },
+  {
+    "question": "The scanner is the......device of computer system",
+    "options": ["Input", "Output", "Input output", "Processing"],
+    "answer": "Input"
+  },
+  {
+    "question": "Pentium means the ......of computer",
+    "options": ["ALU", "Microprocessor", "Monitor", "Memory"],
+    "answer": "Microprocessor"
+  },
+  {
+    "question": "What is the name is given to the first generation of computer language?",
+    "options": ["Binary language", "Machine language", "Primary language", "Natural language"],
+    "answer": "Machine language"
+  },
+  {
+    "question": "Compiler and interpreter themselves....",
+    "options": ["Hardware", "Program", "Virus", "No one of the above"],
+    "answer": "Program"
+  },
+  {
+    "question": "Which of the following is mass storage device?",
+    "options": ["CDROM", "Hard disk", "Tape", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A single byte consists of....",
+    "options": ["4bits", "16bits", "8bits", "7 bits"],
+    "answer": "8bits"
+  },
+  {
+    "question": "The main basic block of a computer system consists of....",
+    "options": ["Input, output, CPU and memory", "Input, Output, storage and user", "RAM, ROM, Floppy and UPS", "RAM, hard disk, keyboard and monitors"],
+    "answer": "Input, output, CPU and memory"
+  },
+  {
+    "question": "According to the working principle computer is divided as......",
+    "options": ["Analog computer", "Digital computer", "Hybrid computer", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is modem?",
+    "options": ["Analog and digital converter", "Modulator and demodulator", "Telephone switching", "None of the above"],
+    "answer": "Modulator and demodulator"
+  },
+  {
+    "question": "1 MB corresponds to...",
+    "options": ["1024 bytes", "1024 terabytes", "1024 kilobytes", "1024 gigabytes"],
+    "answer": "1024 kilobytes"
+  },
+  {
+    "question": "1 GB corresponds to......",
+    "options": ["1024MB", "1024 byte", "1020 Tb", "1024GB"],
+    "answer": "1024MB"
+  },
+  {
+    "question": "There are......types of language processor.",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["VDU", "Joystick", "Plotter", "Printer"],
+    "answer": "Joystick"
+  },
+  {
+    "question": "A translator used in low level language is...",
+    "options": ["Compiler", "Interpreter", "Assembler", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is not an output device?",
+    "options": ["Speaker", "Monitor", "Digitizer", "Plotter"],
+    "answer": "Digitizer"
+  },
+  {
+    "question": "Which of the following is soft copy output device?",
+    "options": ["Speaker", "Monitor", "Digitizer", "Plotte"],
+    "answer": "Speaker"
+  },
+  {
+    "question": "1KB......bytes.",
+    "options": ["1024", "1000", "1024x1024", "All of the above"],
+    "answer": "1024"
+  },
+  {
+    "question": "Before booting the computer, the system files reside on...",
+    "options": ["RAM", "ROM", "Hard disk", "Floppy"],
+    "answer": "Hard disk"
+  },
+  {
+    "question": "The processing elements of fifth generation of computer is",
+    "options": ["AI", "Organic chip", "Duo core", "Microprocessor"],
+    "answer": "Organic chip"
+  },
+  {
+    "question": "The printing quality measures in resolution and resolution measures in....",
+    "options": ["DPI", "PPM", "Pixel", "RPI"],
+    "answer": "DPI"
+  },
+  {
+    "question": "MO disk is...",
+    "options": ["Optical disk", "Magnetic disk", "Semiconductor disk", "Based on optical and magnetic technology"],
+    "answer": "Based on optical and magnetic technology"
+  },
+  {
+    "question": "The output quality of the ......is better than other.",
+    "options": ["CRT monitor", "LCD monitor", "Laptop monitor", "No one of the above"],
+    "answer": "CRT monitor"
+  },
+  {
+    "question": "The ......translates the source code into machine code",
+    "options": ["Translator", "Assembler", "Compiler", "Interpreter"],
+    "answer": "Translator"
+  },
+  {
+    "question": "Which number system uses the both number and character to represent number?",
+    "options": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+    "answer": "Hexadecimal"
+  },
+  {
+    "question": "The device used in geographical mapping is",
+    "options": ["Bar code", "Plotter", "Digitizer", "Scanner"],
+    "answer": "Digitizer"
+  },
+  {
+    "question": "The size of the first floppy disk was",
+    "options": ["9 inch", "8 inch", "5 1/4\"", "3 1/2\""],
+    "answer": "8 inch"
+  },
+  {
+    "question": "Monitor is",
+    "options": ["VDU", "TV", "VUD", "No one of the above"],
+    "answer": "VDU"
+  },
+  {
+    "question": "DDR stands for......",
+    "options": ["Double data rate", "Double density rate", "Density data rate", "All of the above"],
+    "answer": "Double data rate"
+  },
+  {
+    "question": "Which is the function of ROMBIOS?",
+    "options": ["POST operation", "Boot start up operation", "Bootstrap loading", "Both a and b"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "An input device used in bank is......",
+    "options": ["POS", "MICR", "OMR", "OCR"],
+    "answer": "MICR"
+  },
+  {
+    "question": "The number of sector per track in high density floppy disk is",
+    "options": ["9", "15", "18", "36"],
+    "answer": "18"
+  },
+  {
+    "question": "The signal converter used in most of the output devices is......",
+    "options": ["Decoders", "Modems", "Gates", "Multiplexer"],
+    "answer": "Decoders"
+  },
+  {
+    "question": "The name of the chip will be applied for dynamic and high power computing based on very latest technology",
+    "options": ["Microprocessor", "Biochip", "Robot chip", "Ultra chip"],
+    "answer": "Biochip"
+  },
+  {
+    "question": "The full form of PDA is",
+    "options": ["Personal Digital Assistant", "Personal Diary Assistant", "Personal Data Assistant", "Professional Data Assistant"],
+    "answer": "Personal Digital Assistant"
+  },
+  {
+    "question": "The quality of printer depends upon",
+    "options": ["Technology", "Price", "Resolution", "All of the above"],
+    "answer": "Resolution"
+  },
+  {
+    "question": "Large data bus width causes",
+    "options": ["Transmit data faster", "Faster computing", "Slow execution", "All of the above"],
+    "answer": "Transmit data faster"
+  },
+  {
+    "question": "The maximum capacity of 2HD-3½\" floppy disk is...",
+    "options": ["1.44Mb", "1.44MB", "1.4MB", "1.4mb"],
+    "answer": "1.44MB"
+  },
+  {
+    "question": "The writing method in CDROM is called...",
+    "options": ["Copying", "Burning", "Embedding", "No one of the above"],
+    "answer": "Burning"
+  },
+  {
+    "question": "The system date is in......data format...",
+    "options": ["ANSI", "British", "American", "International"],
+    "answer": "American"
+  },
+  {
+    "question": "Which of the following terms is most closely related to auxiliary memory?",
+    "options": ["Nonvolatile", "Permanent", "Both a and b", "Temporary"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "Which of the following is not a type of ROM?",
+    "options": ["PROM", "Flash memory", "EPROM", "Virtual memory"],
+    "answer": "Virtual memory"
+  },
+  {
+    "question": "Which is considered as the direct entry input device?",
+    "options": ["Optical scanner", "Mouse and digitizer", "Light pen", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which is not a characteristic of computer?",
+    "options": ["Speed", "Accuracy", "Diligent", "Understanding"],
+    "answer": "Understanding"
+  },
+  {
+    "question": "Intelligent PROM stands for...",
+    "options": ["Programming Read Only Memory", "Programmable Read Only Memory", "Package Read Only Memory", "Programmable Read On Memory"],
+    "answer": "Programmable Read Only Memory"
+  },
+  {
+    "question": "Which of the following is not a mass storage device?",
+    "options": ["CDROM", "RAM", "Hard disk", "Tape"],
+    "answer": "RAM"
+  },
+  {
+    "question": "In computer all calculations performed are made in.....unit",
+    "options": ["Control unit", "Memory", "Arithmetic and logical unit", "Register"],
+    "answer": "Arithmetic and logical unit"
+  },
+  {
+    "question": "Which of the following memory has the shortest access time...?",
+    "options": ["Cache memory", "Register", "Auxiliary RAM", "External Hard disk"],
+    "answer": "Register"
+  },
+  {
+    "question": "Which is not system software?",
+    "options": ["Windows OS", "Translator", "Emulator", "Excel"],
+    "answer": "Excel"
+  },
+  {
+    "question": "Which of the following is the acronym for electronic delay storage automatic calculator?",
+    "options": ["UNIVA", "EDSAC", "EDVAC", "Abacus"],
+    "answer": "EDSAC"
+  },
+  {
+    "question": "Which one is the slowest access memory among the following?",
+    "options": ["Disk", "RAM", "Cache memory", "Register"],
+    "answer": "Disk"
+  },
+  {
+    "question": "The speed of laser printer is measured in......",
+    "options": ["LPM", "CPS", "DPS", "PPM"],
+    "answer": "PPM"
+  },
+  {
+    "question": "MVS stands for",
+    "options": ["Many very large system", "Multi value system", "Multiple virtual storage", "None of the above"],
+    "answer": "Multiple virtual storage"
+  },
+  {
+    "question": "Hard disk is coated with...",
+    "options": ["Magnetic metallic oxide", "Optical metallic oxide", "Carbon layer", "All of the above"],
+    "answer": "Magnetic metallic oxide"
+  },
+  {
+    "question": "Program designed to perform specific user tasks is known as...",
+    "options": ["System software", "Application software", "Utility software", "Operating system"],
+    "answer": "Application software"
+  },
+  {
+    "question": "A computer program that translates one program instructions at a time into machine language is called a/an",
+    "options": ["Interpreter", "CPU", "Compiler", "Simulator"],
+    "answer": "Interpreter"
+  },
+  {
+    "question": "A device that operates under the control of another device is called...",
+    "options": ["Stem", "Slave", "Simulator", "Emulator"],
+    "answer": "Slave"
+  },
+  {
+    "question": "Daisy wheel printer is a type of",
+    "options": ["Matrix printer", "Impact printer", "Laser printer", "Manual printer"],
+    "answer": "Impact printer"
+  },
+  {
+    "question": "Computer is an...machine",
+    "options": ["Electrician", "Mechanical", "Engineering", "Electronic"],
+    "answer": "Electronic"
+  },
+  {
+    "question": "The process of starting or restarting a computer system by loading system files from a secondary storage device into the computer memory is called",
+    "options": ["Paging", "Booting", "Swapping", "Loading"],
+    "answer": "Booting"
+  },
+  {
+    "question": "Which is not system software?",
+    "options": ["Microsoft word", "Microsoft windows", "Device driver", "Hard disk recovers utility"],
+    "answer": "Microsoft word"
+  },
+  {
+    "question": "If your computer reports that a file has a size of one kilobyte, then how much space it is using?",
+    "options": ["8 bytes", "1024 bytes", "1048576 bytes", "All of the above"],
+    "answer": "1024 bytes"
+  },
+  {
+    "question": "Which of these is a pointing device?",
+    "options": ["Laser printer", "Touch pad", "Keyboard", "Decimal point"],
+    "answer": "Touch pad"
+  },
+  {
+    "question": "Which is the magnetic storage device?",
+    "options": ["CD", "DVD", "Pen drive", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "question": "Which is not a input device?",
+    "options": ["Touch screen", "Mouse", "Screen", "MIDI"],
+    "answer": "Screen"
+  },
+  {
+    "question": "Which of the following is not a microcomputer?",
+    "options": ["Desktop", "Laptop", "Mainframe", "Hand held PC"],
+    "answer": "Mainframe"
+  },
+  {
+    "question": "A personal computer is a...",
+    "options": ["Microcomputer", "Terminal", "Personal digital assistant", "Mainframe"],
+    "answer": "Microcomputer"
+  },
+  {
+    "question": "Which component are you unlikely to find as part of a Motherboard?",
+    "options": ["ROM", "CPU", "CMOS memory", "CD-ROM"],
+    "answer": "CD-ROM"
+  },
+  {
+    "question": "A computer must be capable of doing all of these things except......",
+    "options": ["Electrolyze data", "Output data", "Process data", "Store data"],
+    "answer": "Electrolyze data"
+  },
+  {
+    "question": "You could measure a microprocessor's clock speed of recent computer in......",
+    "options": ["Computer procedure unit", "Hertz", "Bits per second", "Gigahertz"],
+    "answer": "Gigahertz"
+  },
+  {
+    "question": "High data accuracy produced by...... computer.",
+    "options": ["Analog", "Digital", "Hybrid", "None of the above"],
+    "answer": "Digital"
+  },
+  {
+    "question": "Which one of the following is the oldest storage device?",
+    "options": ["Paper tape", "Magnetic tape", "Magnetic disk", "Magnetic core"],
+    "answer": "Paper tape"
+  },
+  {
+    "question": "The communication port is used for...",
+    "options": ["Mouse connection", "Printer connection", "Modem connection", "Monitor connection"],
+    "answer": "Modem connection"
+  },
+  {
+    "question": "Modem is connected with......",
+    "options": ["Parallel port", "Serial port", "USB", "Com port"],
+    "answer": "Com port"
+  },
+  {
+    "question": "Which of the following is the low level language?",
+    "options": ["Assembly", "Machine", "Both a and b", "Natural language"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "Which one is removable disk?",
+    "options": ["Zip disk", "Pen drive", "Floppy disk", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The capacity of compact disk is.....",
+    "options": ["100KB", "250MB", "640MB", "2000MB"],
+    "answer": "640MB"
+  },
+  {
+    "question": "Which is not hardware?",
+    "options": ["Keyboard", "Mouse", "Printer", "CD"],
+    "answer": "CD"
+  },
+  {
+    "question": "The content of ROM can be erased by supplying electric charge?",
+    "options": ["PROM", "EPROM", "EEPROM", "EAPROM"],
+    "answer": "EEPROM"
+  },
+  {
+    "question": "The ABACUS was originated from....",
+    "options": ["China", "Korea", "Japan", "USA"],
+    "answer": "China"
+  },
+  {
+    "question": "SMPS stands for......",
+    "options": ["Switching mode power supply", "Switch mode power system", "System mode power station", "None of the above"],
+    "answer": "Switching mode power supply"
+  },
+  {
+    "question": "Antivirus program falls on ...... category",
+    "options": ["System software", "Application software", "Utility software", "All of the above"],
+    "answer": "Utility software"
+  },
+  {
+    "question": "Which is not a basic type of computer?",
+    "options": ["Super computer", "Digital computer", "Analog", "Hybrid"],
+    "answer": "Super computer"
+  },
+  {
+    "question": "Linkage between the CPU and users is called....",
+    "options": ["Software", "Hardware", "Peripheral", "Storage"],
+    "answer": "Peripheral"
+  },
+  {
+    "question": "The DVD is a/an ...... Disk",
+    "options": ["Magnetic", "Semiconductor", "Magneto optical", "Optical"],
+    "answer": "Optical"
+  },
+  {
+    "question": "Which is not direct entry input device?",
+    "options": ["Keyboard", "Scanner", "Barcode reader", "OMR"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "The mnemonic code was used in......",
+    "options": ["1GL", "2GL", "3GL", "4GL"],
+    "answer": "2GL"
+  },
+  {
+    "question": "Which will produce high graphic quality print out?",
+    "options": ["Laser", "Plotter", "Dot matrix", "Inkjet"],
+    "answer": "Plotter"
+  },
+  {
+    "question": "How many types of different devices that supported by USB port?",
+    "options": ["40", "65", "100", "127"],
+    "answer": "127"
+  },
+  {
+    "question": "Which one is the component of computer system?",
+    "options": ["Hardware", "Software", "Human ware", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the name for parallel communication pathway that connects different hardware components physically into computer system?",
+    "options": ["Cable", "Line", "Bus", "Peripheral"],
+    "answer": "Bus"
+  },
+  {
+    "question": "Which electronic component was concerned for emerging the third generation computer?",
+    "options": ["Vacuum tubes", "IC", "Transistors", "VLSI"],
+    "answer": "IC"
+  },
+  {
+    "question": "Which of the following two computers have the same architecture?",
+    "options": ["IBM and Macintosh", "IBM Compatible and apple", "IBM and Apple/Macintosh", "IBM and IBM compatible"],
+    "answer": "IBM and IBM compatible"
+  }
+]

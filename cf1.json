@@ -1,0 +1,502 @@
+[
+  {
+    "question": "If there are multiple recycle bin for a hard disk",
+    "options": ["you can set different size for each recycle bin", "you can choose which recycle bin to use to store your deleted files", "You can make any one of them default recycle bin", "None of above"],
+    "answer": "you can set different size for each recycle bin"
+  },
+  {
+    "question": "Identify false statement",
+    "options": ["You can find deleted files in recycle bin", "You can restore any files in recycle bin if you ever need", "You can increase free space of disk by sending files in recycle bin", "You can right click and choose Empty Recycle Bin to clean it at once"],
+    "answer": "You can increase free space of disk by sending files in recycle bin"
+  },
+  {
+    "question": "If the displayed system time and dates wrong, you can reset it using",
+    "options": ["Write", "Calendar", "Write file", "Control panel"],
+    "answer": "Control panel"
+  },
+  {
+    "question": "You should save your computer from?",
+    "options": ["Viruses", "Time bombs", "Worms", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "World Wide Web is being standard by",
+    "options": ["Worldwide corporation", "W3C", "World Wide Consortium", "World Wide Web Standard"],
+    "answer": "W3C"
+  },
+  {
+    "question": "A co-processor",
+    "options": ["Is relatively easy to support in software", "Causes all processor to function equally", "Works with any application", "Is quite common in modern computer"],
+    "answer": "Is relatively easy to support in software"
+  },
+  {
+    "question": "A Microsoft Windows is ......(a(n))",
+    "options": ["Operating system", "Graphic program", "Word Processing", "Database program"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "Which of the following is program group?",
+    "options": ["Accessories", "Paint", "Word", "All of above"],
+    "answer": "Accessories"
+  },
+  {
+    "question": "Which is not application software?",
+    "options": ["Windows NT", "Page Maker", "WinWord XP", "Photoshop"],
+    "answer": "Windows NT"
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": ["Oracle", "Linux", "Unix", "DOS"],
+    "answer": "Oracle"
+  },
+  {
+    "question": "What is the full form of W3C?",
+    "options": ["World Wide Web Consortium", "World Wide Web Company", "World Wide Web Center", "None of these"],
+    "answer": "World Wide Web Consortium"
+  },
+  {
+    "question": "What is the full form of W3C? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["World Wide Web Consortium", "World Wide Web Company", "World Wide Web Center", "None of these"],
+    "answer": "World Wide Web Consortium"
+  },
+  {
+    "question": "Which of the following is the operating system?",
+    "options": ["DOS", "Windows", "Unix", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is not an operating system?",
+    "options": ["DOS", "Mac", "C++", "Unix"],
+    "answer": "C++"
+  },
+  {
+    "question": "Which of the following is an example of a Real Time Operating System?",
+    "options": ["Linux", "Palm OS", "Windows CE", "Process Control"],
+    "answer": "Process Control"
+  },
+  {
+    "question": "Which of the following is an example of a Real Time Operating System? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Linux", "Palm OS", "Windows CE", "Process Control"],
+    "answer": "Process Control"
+  },
+  {
+    "question": "Which operating system does not support long file names?",
+    "options": ["OS/2", "Windows 95", "MS-DOS", "Windows NT"],
+    "answer": "MS-DOS"
+  },
+  {
+    "question": "Which button might you find in a windows title bar?",
+    "options": ["Minimize button", "Maximize button", "Close button", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which button might you find in a windows title bar? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Minimize button", "Maximize button", "Close button", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which is not a system tool?",
+    "options": ["Folder", "Backup", "Scandisk", "Format"],
+    "answer": "Backup"
+  },
+  {
+    "question": "Which is not a system tool? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Folder", "Backup", "Scandisk", "Format"],
+    "answer": "Backup"
+  },
+  {
+    "question": "Which operating system can you give the smallest file name?",
+    "options": ["PS/2", "DOS 5.0", "Windows 3.1", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which operating system can you give the smallest file name? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["PS/2", "DOS 5.0", "Windows 3.1", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which operating system can you give the smallest file name? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["PS/2", "DOS 5.0", "Windows 3.1", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which is not essential of computer?",
+    "options": ["DOS", "Application Software", "Operating System", "None"],
+    "answer": "Application Software"
+  },
+  {
+    "question": "Which of the following is program group?",
+    "options": ["Word Pad", "Paint Brush", "MS Word", "Accessories"],
+    "answer": "Accessories"
+  },
+  {
+    "question": "Which of the following is program group? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Word Pad", "Paint Brush", "MS Word", "Accessories"],
+    "answer": "Accessories"
+  },
+  {
+    "question": "Which of the following is not a browser?",
+    "options": ["Netscape Navigator", "Mozilla Firefox", "uTorrent", "Internet Explorer"],
+    "answer": "uTorrent"
+  },
+  {
+    "question": "Which of the following is the smallest storage?",
+    "options": ["Megabyte", "Gigabyte", "Terabyte", "None of these"],
+    "answer": "Megabyte"
+  },
+  {
+    "question": "Which of the following is the smallest storage? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Megabyte", "Gigabyte", "Terabyte", "None of these"],
+    "answer": "Megabyte"
+  },
+  {
+    "question": "A filename can have a maximum length of ... characters in Windows 95?",
+    "options": ["8", "64", "255", "None of these"],
+    "answer": "255"
+  },
+  {
+    "question": "A filename can have a maximum length of ... characters in Windows 95? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["8", "64", "255", "None of these"],
+    "answer": "255"
+  },
+  {
+    "question": "The running of any program in Windows 95 is shown by",
+    "options": ["Minimized window", "Maximized window", "Button on taskbar", "None of these"],
+    "answer": "Button on taskbar"
+  },
+  {
+    "question": "The running of any program in Windows 95 is shown by (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Minimized window", "Maximized window", "Button on taskbar", "None of these"],
+    "answer": "Button on taskbar"
+  },
+  {
+    "question": "Running multiple programs at the same time is called",
+    "options": ["Multitasking", "Foreground tasking", "Background tasking", "All of above"],
+    "answer": "Multitasking"
+  },
+  {
+    "question": "Running multiple programs at the same time is called (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Multitasking", "Foreground tasking", "Background tasking", "All of above"],
+    "answer": "Multitasking"
+  },
+  {
+    "question": "Which operating system doesn't support networking between computers?",
+    "options": ["Windows 3.1", "Windows 95", "Windows 2000", "Windows NT"],
+    "answer": "Windows 3.1"
+  },
+  {
+    "question": "Which operating system doesn't support networking between computers? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Windows 3.1", "Windows 95", "Windows 2000", "Windows NT"],
+    "answer": "Windows 3.1"
+  },
+  {
+    "question": "Which is not a valid version of windows?",
+    "options": ["Windows XP", "Windows Vista", "Windows 7", "Windows 8"],
+    "answer": "Windows 8"
+  },
+  {
+    "question": "Which is not a valid version of windows? (Duplicate Question - Answer provided as per sheet)",
+    "options": ["Windows XP", "Windows Vista", "Windows 7", "Windows 8"],
+    "answer": "Windows 8"
+  },
+  {
+    "question": "Which type of command requires additional files to perform specific operations?",
+    "options": ["Internal commands", "External commands", "Valuable commands", "Primary commands"],
+    "answer": "External commands"
+  },
+  {
+    "question": "Which of the following is system software?",
+    "options": ["Operating system", "Compiler", "Utilities", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A user-interface that is easy to use is considered to be",
+    "options": ["User-happy", "User-simple", "User-friendly", "None of the above"],
+    "answer": "User-friendly"
+  },
+  {
+    "question": "A ....is a flash memory storage device that plugins into a USB port",
+    "options": ["USB snapdrive", "USB flashdrive", "USB memory makerdrive", "None of above"],
+    "answer": "USB flashdrive"
+  },
+  {
+    "question": "The ....is the drive containing the files to be copied",
+    "options": ["Source drive", "Destination drive", "USB drive", "None of the above"],
+    "answer": "Source drive"
+  },
+  {
+    "question": "The number of character contained in primary name (DOS)?",
+    "options": ["Up to 8 characters", "3 characters", "Up to 10 characters", "None of the above"],
+    "answer": "Up to 8 characters"
+  },
+  {
+    "question": "Which one of the following is not a multitask ing operating system?",
+    "options": ["DOS", "Windows", "Unix", "Linux"],
+    "answer": "DOS"
+  },
+  {
+    "question": "The most recent version of MAC OS is based on the ... operating system",
+    "options": ["Windows", "Linux", "Unix", "CMOS"],
+    "answer": "Unix"
+  },
+  {
+    "question": "The ...operating system was initially created in the early 1970s at AT and T's Bell Labs",
+    "options": ["Linux", "DOS", "Unix", "GNU"],
+    "answer": "Unix"
+  },
+  {
+    "question": "Which command is used to undelete a bunch of files with extension .doc that you have just deleted?",
+    "options": ["Undelete", "Undelete/all", "Undelete *.doc", "All of above"],
+    "answer": "Undelete *.doc"
+  },
+  {
+    "question": "Which command is used to display the contents of the text file of DOS?",
+    "options": ["Copy con", "Copy", "Type", "Dir"],
+    "answer": "Type"
+  },
+  {
+    "question": "In Windows, start button is used to",
+    "options": ["Run applications", "Device setting", "Turn off the system", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which of the following is an essential file of MS-DOS boot disk?",
+    "options": ["COMMAND.COM", "START.COM", "TREE.COM", "VER.COM"],
+    "answer": "COMMAND.COM"
+  },
+  {
+    "question": "Which one is true for unconditional disk formatting?",
+    "options": ["Destroys every byte of data on a disk by overwriting it with blank spaces", "Do not check/scan surface after format", "Transfer system files after format", "All of above"],
+    "answer": "Destroys every byte of data on a disk by overwriting it with blank spaces"
+  },
+  {
+    "question": "Onectext has been cut to the clipboard, you can ....that text into another document",
+    "options": ["Paste", "Copy", "Transfer", "None of the above"],
+    "answer": "Paste"
+  },
+  {
+    "question": "What is the function of radio button?",
+    "options": ["To select multiple option", "To select single option", "To select all option", "All of above"],
+    "answer": "To select single option"
+  },
+  {
+    "question": "The Banker's algorithm is used",
+    "options": ["to rectify deadlock", "to detect deadlock", "to prevent deadlock", "to solve deadlock"],
+    "answer": "to prevent deadlock"
+  },
+  {
+    "question": "The primary purpose of an operating system is:",
+    "options": ["To make the most efficient use of the computer hardware", "To allow people to use the computer,", "To keep systems programmers employed", "To make computers easier to use"],
+    "answer": "To make the most efficient use of the computer hardware"
+  },
+  {
+    "question": "The primary purpose of an operating system is a ...",
+    "options": ["To make the most efficient use of computer hardware", "To allow people to use the computer", "To keep system programmer employed", "To make computer easier to use"],
+    "answer": "To make the most efficient use of computer hardware"
+  },
+  {
+    "question": "You can use print manage window",
+    "options": ["To checkstatus of files in the print queue", "To cancel the print job", "To interrupt printing", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following operating system reads and reacts in actual time?",
+    "options": ["Quick Response System", "Real Time System", "Time Sharing System", "Batch Processing System"],
+    "answer": "Real Time System"
+  },
+  {
+    "question": "All of the following are TRUE regarding virtual memory EXCEPT",
+    "options": ["Any amount of RAM can be allocated to virtual memory", "The setting for the amount of hard disk drive space to allocate virtual memory can be manually change", "This temporary storage is called the swap file or page file", "Virtual memory is the physical space to the hard drive"],
+    "answer": "Any amount of RAM can be allocated to virtual memory"
+  },
+  {
+    "question": "The essential difference between an operating system like Linux and one like Windows is that",
+    "options": ["Windows can run with an Interprocessor, whereas Linux cannot", "Linux is a proprietary whereas Windows is not", "There are multiple versions of Linux, but only one version of Windows", "Any programmer can modify Linux code which is not permitted with Windows"],
+    "answer": "Any programmer can modify Linux code which is not permitted with Windows"
+  },
+  {
+    "question": "What is dispatch latency?",
+    "options": ["The timetaken by the dispatcher to stop one process and start another", "The timetaken by the processor to write a file into disk", "The whole timetaken by all processor", "None of Above"],
+    "answer": "The timetaken by the dispatcher to stop one process and start another"
+  },
+  {
+    "question": "A page fault occurs when",
+    "options": ["the Deadlock happens", "the Segmentation starts", "the page is found in the memory", "the page is not found in the memory"],
+    "answer": "the page is not found in the memory"
+  },
+  {
+    "question": "Whenever you move a directory from one location to another",
+    "options": ["All files inside the directory are moved", "All the subdirectory inside that directory are moved", "The directory is moved the source file is not moved", "Both a and b"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "The Basic Input Output System (BIOS) resides in",
+    "options": ["RAM", "ROM", "The CPU", "Memory Cache"],
+    "answer": "ROM"
+  },
+  {
+    "question": "Which of the following does not occur during the power-on-self-test (POST)?",
+    "options": ["The scandisk utility begins to run", "The video card and video memory are tested", "The BIOS identification process occurs", "Memory chipare checked to ensure that they are working properly"],
+    "answer": "The scandisk utility begins to run"
+  },
+  {
+    "question": "The maximum size of a write file is limited to only",
+    "options": ["Name of the file", "Extension of the file", "The amount of memory in your computer", "All of above"],
+    "answer": "The amount of memory in your computer"
+  },
+  {
+    "question": "Which of the following is drop down list?",
+    "options": ["List", "Combo box", "Text area", "None"],
+    "answer": "Combo box"
+  },
+  {
+    "question": "Recently deleted files are stored in",
+    "options": ["Recycle bin", "Desktop", "Taskbar", "My computer"],
+    "answer": "Recycle bin"
+  },
+  {
+    "question": "Which components appear in the initial Windows start up display?",
+    "options": ["Dialog boxes", "Start menu", "Taskbar", "All of above"],
+    "answer": "Taskbar"
+  },
+  {
+    "question": "A small part of taskbar that has icons of background running applications is",
+    "options": ["Start button", "Quick launch", "Task bar", "System tray"],
+    "answer": "System tray"
+  },
+  {
+    "question": "An operating system version designed for use with a media center PC is Microsoft Windows XP",
+    "options": ["Home edition", "Media center edition", "Tablet PC edition", "None of above"],
+    "answer": "Media center edition"
+  },
+  {
+    "question": "An operating system version designed for use with a tablet PC is Microsoft Windows XP",
+    "options": ["Home edition", "Media center edition", "Tablet PC edition", "None of above"],
+    "answer": "Tablet PC edition"
+  },
+  {
+    "question": "The date and time displays on",
+    "options": ["Taskbar", "Status bar", "System tray", "Launch pad"],
+    "answer": "System tray"
+  },
+  {
+    "question": ".... runs on a computer hardware and serves as a platform for other system to run on",
+    "options": ["Operating system", "Application system", "System software", "All of above"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "Which runs on computer hardware and serve as platform for other software to run on?",
+    "options": ["Operating System", "Application Software", "System Software", "All"],
+    "answer": "Operating System"
+  },
+  {
+    "question": "... is the program run on a computer when the computer boots up",
+    "options": ["System software", "Operating system", "System operations", "None"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "Which is the first program run on a computer when the computer boots up?",
+    "options": ["System software", "Operating system", "System operations", "None"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "The .... contains commands associated with the My Computer window",
+    "options": ["Standard menu", "Start menu", "System menu", "None of the above"],
+    "answer": "System menu"
+  },
+  {
+    "question": ".... is the layer of a computer system between the hardware and the user program",
+    "options": ["Operating environment", "Operating system", "System environment", "None of these"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "Which is the layer of a computer system between the hardware and the user program",
+    "options": ["Operating environment", "Operating system", "System environment", "None"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "When you start up the computer the boot up storage at which the BIOS versions manufacturer and data are displayed on the monitor is called",
+    "options": ["Bootstrap", "Power on self test (POST)", "System configuration", "Kernel loading"],
+    "answer": "Power on self test (POST)"
+  },
+  {
+    "question": "The operating system is the most common type of .... Software",
+    "options": ["Communication", "Application", "System", "Word processing software"],
+    "answer": "System"
+  },
+  {
+    "question": "Which of the following is/are external commands?",
+    "options": ["Edit", "Label", "Sys", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which is not an external command?",
+    "options": ["Edit", "XCOPY", "Sys", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "question": "Which of the following is not essential to shut down your computer?",
+    "options": ["Save all opened files", "Close all running applications", "Switch off monitor", "Cut off the power supply"],
+    "answer": "Switch off monitor"
+  },
+  {
+    "question": "What is Dr. Watson?",
+    "options": ["IT Expert", "Diagnosis tool", "Surgeon", "None"],
+    "answer": "Diagnosis tool"
+  },
+   {
+    "question": "The command allows you to create logical drive",
+    "options": ["Sort", "Path", "Subst", "Batch"],
+    "answer": "Subst"
+  },
+  {
+    "question": "The command used to create logical drive for specific location of disk",
+    "options": ["Fdisk", "Format", "Subst", "All of the above"],
+    "answer": "Subst"
+  },
+  {
+    "question": "You can move a window to a different position on your screen by dragging it by its",
+    "options": ["Move handle", "Tail", "Status bar", "Title bar"],
+    "answer": "Move handle"
+  },
+  {
+    "question": "A bar that inform you the available options in your computer, opened applications, background running applications and can be used to switch between applications quickly is",
+    "options": ["Menu bar", "Tool bar", "Status bar", "Task bar"],
+    "answer": "Task bar"
+  },
+  {
+    "question": "Which components appear in the initial windows start up display?",
+    "options": ["Dialog box", "Task bar", "Start menu", "All of the above"],
+    "answer": "Task bar"
+  },
+  {
+    "question": "Taskbar is used for",
+    "options": ["Navigation program", "Switching between program", "Start a program", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "To install the new font",
+    "options": ["Start -> setting -> control panel -> font", "Start -> setting -> control panel -> font -> install new font", "Start -> control panel -> font -> install new font", "Start -> setting -> font"],
+    "answer": "Start -> setting -> control panel -> font -> install new font"
+  },
+  {
+    "question": "When a peripheral device needs immediate attention from the operating system, it generates(a)(n)",
+    "options": ["Interrupt", "Spool", "Stack", "Page file"],
+    "answer": "Interrupt"
+  },
+  {
+    "question": "Underlined text, such as text and folder names is referred to as",
+    "options": ["Hyperlink", "Menu", "Source drive", "None of these"],
+    "answer": "Hyperlink"
+  },
+  {
+    "question": "Which of the following is suitable after you install new drivers?",
+    "options": ["Shut Down", "Restart", "Sleep", "Hibernate"],
+    "answer": "Restart"
+  },
+  {
+    "question": "Windows displays various options to shutdown. Which is suitable at the end of day?",
+    "options": ["Shut Down", "Restart", "Sleep", "Hibernate"],
+    "answer": "Shut Down"
+  }
+]

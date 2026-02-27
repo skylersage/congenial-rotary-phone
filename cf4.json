@@ -1,0 +1,502 @@
+[
+  {
+    "question": "The value of each bead in earth is",
+    "options": ["1", "3", "5", "7"],
+    "answer": "1"
+  },
+  {
+    "question": "When did John Napier develop logarithm?",
+    "options": ["1416", "1614", "1641", "1804"],
+    "answer": "1614"
+  },
+  {
+    "question": "Which of the following terms is the most closely related to main memory?",
+    "options": ["Non volatile", "Permanent", "Control unit", "Temporary"],
+    "answer": "Temporary"
+  },
+  {
+    "question": "Which was the world's first minicomputer and when was it introduced?",
+    "options": ["PDP-I, 1958", "IBM System/36, 1960", "PDP-II, 1961", "VAX 11/780, 1962"],
+    "answer": "PDP-I, 1958"
+  },
+  {
+    "question": "A group of magnetic tapes, videos or terminals usually under the control of one master is",
+    "options": ["Cylinder", "Surface", "Track", "Cluster"],
+    "answer": "Cluster"
+  },
+  {
+    "question": "The word length of a computer is measured in",
+    "options": ["Bytes", "Millimeters", "Meters", "Bits"],
+    "answer": "Bits"
+  },
+  {
+    "question": "What type of memory is not directly addressable by the CPU and requires special software?",
+    "options": ["Extended", "Expanded", "Base", "Conventional"],
+    "answer": "Expanded"
+  },
+  {
+    "question": "Which unit holds data permanently?",
+    "options": ["Input unit", "Secondary storage unit", "Output Unit", "Primary Memory Unit"],
+    "answer": "Secondary storage unit"
+  },
+  {
+    "question": "Before a disk can be used to store data. It must be",
+    "options": ["Formatted", "Reformatted", "Addressed", "None of the above"],
+    "answer": "Formatted"
+  },
+  {
+    "question": "Computer system comprises of major units",
+    "options": ["input unit, output unit, control unit", "input unit, output unit, control unit and storage", "input unit, output unit, central processing unit and storage unit", "input, output and storage units"],
+    "answer": "input unit, output unit, central processing unit and storage unit"
+  },
+  {
+    "question": "The first general purpose electronic digital computer in the world was",
+    "options": ["UNIVAC", "EDVAC", "ENIAC", "All of above"],
+    "answer": "UNIVAC"
+  },
+  {
+    "question": "Signals can be analog or digital and a computer that processes the both type of signals is known as",
+    "options": ["Analog computer", "Digital Computer", "Hybrid Computer", "Mainframe Computer"],
+    "answer": "Hybrid Computer"
+  },
+  {
+    "question": "High level language is also called",
+    "options": ["Problem oriented language", "Business oriented language", "Mathematically oriented language", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Human beings are referred to as Homosapiens, which device is called Silico Sapiens?",
+    "options": ["Monitor", "Hardware", "Robot", "Computer"],
+    "answer": "Computer"
+  },
+  {
+    "question": "Which of the following file organization is most efficient for a file with a high degree of file activity?",
+    "options": ["Sequential", "ISAM", "VSAM", "B-Tree Index"],
+    "answer": "Sequential"
+  },
+  {
+    "question": "Which of the following is associated with error detector?",
+    "options": ["Odd parity bit", "Even parity bit", "Both of the above", "None of above"],
+    "answer": "Both of the above"
+  },
+  {
+    "question": "Magnetic tape can serve as",
+    "options": ["Secondary storage media", "Output media", "Input media", "All of the above"],
+    "answer": "Secondary storage media"
+  },
+  {
+    "question": "Which company is the biggest player in the microprocessor industry?",
+    "options": ["Motorola", "IBM", "Intel", "AMD"],
+    "answer": "Intel"
+  },
+  {
+    "question": "The first digital computer built with IC chips was known as",
+    "options": ["IBM 7090", "Apple ? 1", "IBM System / 360", "VAX-10"],
+    "answer": "IBM System / 360"
+  },
+  {
+    "question": "EBCDIC can code up to how many different characters?",
+    "options": ["256", "16", "32", "64"],
+    "answer": "256"
+  },
+  {
+    "question": "MICR stands for",
+    "options": ["Magnetic Ink Character Reader", "Magnetic Ink Code Reader", "Magnetic Ink Cases Reader", "None"],
+    "answer": "Magnetic Ink Character Reader"
+  },
+  {
+    "question": "Number cruncher is the informal name for",
+    "options": ["Mini computer", "Super computer", "Microcomputer", "Mainframe computer"],
+    "answer": "Super computer"
+  },
+  {
+    "question": "RATS stand for",
+    "options": ["Regression Analysis Time Series", "Regression Analysis Time Sharing", "Real Analysis Series", "All of above"],
+    "answer": "Regression Analysis Time Series"
+  },
+  {
+    "question": "Which technology is used in Compact disks?",
+    "options": ["Mechanical", "Electrical", "Electro Magnetic", "Laser"],
+    "answer": "Laser"
+  },
+  {
+    "question": "Different components of the motherboard of a PC unit are linked together by sets of parallel electrical conducting lines. What are these lines called?",
+    "options": ["Conductors", "Buses", "Connectors", "Consecutive"],
+    "answer": "Buses"
+  },
+  {
+    "question": "Which is the first electronic digital computer?",
+    "options": ["ENIAC", "MARK I", "Z3", "ABC"],
+    "answer": "ABC"
+  },
+  {
+    "question": "Which of the following is a storage device?",
+    "options": ["Tape", "Hard Disk", "Floppy Disk", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The metal disks, which are permanently housed in, sealed and contamination free containers are called",
+    "options": ["Hard disks", "Floppy disk", "Winchester disk", "Flexible disk"],
+    "answer": "Winchester disk"
+  },
+  {
+    "question": "A computer program that converts an entire program into machine language is called a/an",
+    "options": ["Interpreter", "Simulator", "Compiler", "Commander"],
+    "answer": "Compiler"
+  },
+  {
+    "question": "Intel corporation produces chips for which computers?",
+    "options": ["IBM PCs", "Apple/Macintosh PCs", "Both of above", "None of above"],
+    "answer": "IBM PCs"
+  },
+  {
+    "question": "The first microprocessor built by the Intel corporation was called",
+    "options": ["8008", "8080", "4004", "8800"],
+    "answer": "4004"
+  },
+  {
+    "question": "Which of the following is not a class of computers based on size?",
+    "options": ["Mainframe Computers", "Mini Computers", "Micro Computers", "Super Computers"],
+    "answer": "Super Computers"
+  },
+  {
+    "question": "Who invented EDSAC?",
+    "options": ["John v. Neumann", "J.p. Eckert and John Mauchley", "Maurice Wilkes", "Howard Aiken"],
+    "answer": "Maurice Wilkes"
+  },
+  {
+    "question": "EEPROM stands for",
+    "options": ["Electrically Erasable Programmable Read Only Memory", "Electronic Erasable Programmable Read Only Memory", "Easily Erasable Programmable Read Only Memory", "Easily Erasable Programmable Read Only Memory"],
+    "answer": "Electrically Erasable Programmable Read Only Memory"
+  },
+  {
+    "question": "Which of the following is a class of computers based on model?",
+    "options": ["Digital Computer", "Hybrid Computers", "Analog Computers", "AT Computers"],
+    "answer": "AT Computers"
+  },
+  {
+    "question": "What are the computers called that performs calculations and comparisons usually in the binary numbering system?",
+    "options": ["Analog Computers", "Digital Computers", "Hybrid Computers", "None of above"],
+    "answer": "Digital Computers"
+  },
+  {
+    "question": "ASCII stands for",
+    "options": ["American Standard Code for Information Interchange", "American Scientific Code for International Interchange", "American Standard Code for Intelligence Interchange", "American Scientific Code for Information Interchange"],
+    "answer": "American Standard Code for Information Interchange"
+  },
+  {
+    "question": "The data recording format in most of the modern magnetic tape is",
+    "options": ["7-bit ASCII", "7-bit EBCDIC", "8-bit ASCII", "8-bit EBCDIC"],
+    "answer": "8-bit EBCDIC"
+  },
+  {
+    "question": "Why ABC computer is called so?",
+    "options": ["Because it was developed by Atanasoff and Berry", "Because it was thought to be the first computer so named with first alphabets of English", "Both of above are the reason to name the computer ABC", "None of above are true"],
+    "answer": "Because it was thought to be the first computer so named with first alphabets of English"
+  },
+  {
+    "question": "Who designed the first electronics computer ? ENIAC/",
+    "options": ["Von Neumann", "Joseph M Jacquard", "J. P. Eckert and J. W. Mauchly", "All of above"],
+    "answer": "J. P. Eckert and J. W. Mauchly"
+  },
+  {
+    "question": "Central Processing Unit is combination of",
+    "options": ["Control and storage", "Control and output unit", "Arithmetic logic and input unit", "Arithmetic logic and control unit"],
+    "answer": "Arithmetic logic and control unit"
+  },
+  {
+    "question": "IBM 1401 computer was",
+    "options": ["Mainframe Computer", "Mini Computers", "Micro Computers", "None of above"],
+    "answer": "Mainframe Computer"
+  },
+  {
+    "question": "Time during which a job is processed by the computer is",
+    "options": ["Delay times", "Real time", "Execution time", "Down time"],
+    "answer": "Execution time"
+  },
+  {
+    "question": "CD-ROM stands for",
+    "options": ["Compactable Read Only Memory", "Compact Data Read Only Memory", "Compatible Disk Read Only Memory", "Compact Disk Read Only Memory"],
+    "answer": "Compact Disk Read Only Memory"
+  },
+  {
+    "question": "Which unit converts user data into machine readable form?",
+    "options": ["Input unit", "Output unit", "ALU", "Control Unit"],
+    "answer": "Input unit"
+  },
+  {
+    "question": "Which unit is known as nerve center of computer?",
+    "options": ["ALU", "CU", "Memory", "Registers"],
+    "answer": "ALU"
+  },
+  {
+    "question": "What does the disk drive of a computer do?",
+    "options": ["Rotate the disk", "Read the disk", "Load a program from the disk into the memory", "Both b and c"],
+    "answer": "Both b and c"
+  },
+  {
+    "question": "Access time is",
+    "options": ["seek time + latency time", "seek time", "seek time", "latency time"],
+    "answer": "seek time + latency time"
+  },
+  {
+    "question": "Who invented the microprocessor?",
+    "options": ["Marcian E Huff", "Herman H Goldstein", "Joseph Jacquard", "All of above"],
+    "answer": "Marcian E Huff"
+  },
+  {
+    "question": "MICR stands for",
+    "options": ["Magnetic Ink Character Reader", "Magnetic Ink Code Reader", "Magnetic Ink Case Reader", "None of the above"],
+    "answer": "Magnetic Ink Character Reader"
+  },
+  {
+    "question": "The Width of a processor's data path is measured in bits. Which of the following are common data paths?",
+    "options": ["8 bits", "12 bits", "16 bits", "32 bits"],
+    "answer": "8 bits"
+  },
+  {
+    "question": "MSI is the abbreviation of",
+    "options": ["Medium Scale Integrated", "Medium System Integrated", "Medium Scale Intelligent", "Medium System Intelligent"],
+    "answer": "Medium Scale Integrated"
+  },
+  {
+    "question": "IMB launched its first personal computer called IBM-PC in 1981. It had chips from Intel, disk drives from Tandon, operating system from Microsoft, the printer from Epson and the application software from everywhere. Can you name the country which contributed",
+    "options": ["India", "China", "Germany", "Taiwan"],
+    "answer": "Taiwan"
+  },
+  {
+    "question": "Which statement is valid about interpreter?",
+    "options": ["It translates one instruction at a time", "Object code is saved for future use", "Repeated interpretation is not necessary", "All of above"],
+    "answer": "It translates one instruction at a time"
+  },
+  {
+    "question": "Easily relocatable language is",
+    "options": ["Machine language", "Assembly language", "High level language", "Medium level language"],
+    "answer": "Assembly language"
+  },
+  {
+    "question": "Which of the following memories needs refresh?",
+    "options": ["SRAM", "DRAM", "ROM", "All of above"],
+    "answer": "DRAM"
+  },
+  {
+    "question": "Through which device the main components of the computer communicate with each other?",
+    "options": ["Keyboard", "System Bus", "Monitor", "Memory"],
+    "answer": "System Bus"
+  },
+  {
+    "question": "What type of device is computer keyboard?",
+    "options": ["Memory", "Output", "Storage", "Input"],
+    "answer": "Input"
+  },
+  {
+    "question": "Which is the limitation of high level language?",
+    "options": ["Lower efficiency", "Machine dependence", "Machine level coding", "None of above"],
+    "answer": "Lower efficiency"
+  },
+  {
+    "question": "An example of a digital device can be",
+    "options": ["Digital clock", "Automobile speed meter", "Clock with a dial and two hands", "All of the above"],
+    "answer": "Digital clock"
+  },
+  {
+    "question": "Which of the following is not true?",
+    "options": ["Transistors are much smaller", "Transistors produce low heat", "Transistors were less reliable", "Transistors were used in radios and other electronic devices"],
+    "answer": "Transistors were less reliable"
+  },
+  {
+    "question": "A characteristic of card systems is:",
+    "options": ["Slowness in processing data", "Using cards as records of transactions", "Needing a larger DP staff", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The full form of EEPROM is",
+    "options": ["Electrically Erasable Programmable Read Only Memory", "Easily Erasable Programmable Read Only Memory", "Electronic Erasable Programmable Read Only Memory", "None of the above"],
+    "answer": "Electrically Erasable Programmable Read Only Memory"
+  },
+  {
+    "question": "The original ASCII code used ___ bits of each byte, reserving that last bit for error checking",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "A computer programmer",
+    "options": ["Does all the thinking for a computer", "Can enter input data quickly", "Can operate all types of computer equipments", "Can draw only flowchart"],
+    "answer": "Does all the thinking for a computer"
+  },
+  {
+    "question": "Fifth generation computer is also known as",
+    "options": ["Knowledge information processing system", "Very large scale integration (VLSI)", "Both of above", "None of above"],
+    "answer": "Knowledge information processing system"
+  },
+  {
+    "question": "The commonly used standard data code to represent alphabetical, numerical and punctuation characters used in electronic data processing system is called",
+    "options": ["ASCII", "EBCDIC", "BCD", "All of above"],
+    "answer": "All of above"
+  },
+  {
+    "question": "Which of the following have low failure rate?",
+    "options": ["mechanical devices", "electronic devices", "electro-mechanical devices", "None of above"],
+    "answer": "electronic devices"
+  },
+  {
+    "question": "Which of the following memories need refresh?",
+    "options": ["SRAM", "DRAM", "ROM", "All of the above"],
+    "answer": "DRAM"
+  },
+  {
+    "question": "Which of the following computer implemented binary numbers, perform calculations using electronics and implemented separate computation and memory for the first time?",
+    "options": ["Mark I", "ABC", "Z3", "None of above"],
+    "answer": "ABC"
+  },
+  {
+    "question": "FORTRAN is a programming language. What does FORTRAN stand for?",
+    "options": ["File Translation", "Format Translation", "Formula Translation", "Floppy Translation"],
+    "answer": "Formula Translation"
+  },
+  {
+    "question": "Which of the following memories needs refreshing?",
+    "options": ["SRAM", "DRAM", "ROM", "All of above"],
+    "answer": "DRAM"
+  },
+  {
+    "question": "Can you tell what passes into and out from the computer via its ports?",
+    "options": ["Data", "Bytes", "Graphics", "Pictures"],
+    "answer": "Data"
+  },
+  {
+    "question": "An output device that uses words or messages recorded on a magnetic medium to produce audio response is",
+    "options": ["Magnetic tape", "Voice response unit", "Voice recognition unit", "Voice band"],
+    "answer": "Voice response unit"
+  },
+  {
+    "question": "Which of the items below are considered removable storage media?",
+    "options": ["Removable hard disk cartridges", "Magneto-optical disk", "Flexible disks cartridges", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which of the following is not purely output device?",
+    "options": ["Screen", "Printer", "Speaker", "Plotter"],
+    "answer": "Screen"
+  },
+  {
+    "question": "Who developed a mechanical device in the 17th century that could add, subtract, multiple, divide and find square roots?",
+    "options": ["Napier", "Babbage", "Pascal", "Leibniz"],
+    "answer": "Leibniz"
+  },
+  {
+    "question": "The first Macintosh computer was from",
+    "options": ["First generation", "Second generation", "Third generation", "Fourth generation"],
+    "answer": "Fourth generation"
+  },
+  {
+    "question": "Which of the following is not a form of data?",
+    "options": ["numbers and characters", "images", "sound", "none of above"],
+    "answer": "none of above"
+  },
+  {
+    "question": "Which is not a computer classification?",
+    "options": ["mainframe", "maxframe", "mini", "notebook"],
+    "answer": "maxframe"
+  },
+  {
+    "question": "The control unit of a microprocessor",
+    "options": ["Stores data in the memory", "Accepts input data from keyboard", "Performs arithmetic/logic function", "None of above"],
+    "answer": "None of above"
+  },
+  {
+    "question": "Which of the following is internal memory?",
+    "options": ["Disks", "Pen Drives", "RAM", "CDs"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Which operation is not performed by computer",
+    "options": ["Inputting", "Processing", "Controlling", "Understanding"],
+    "answer": "Understanding"
+  },
+  {
+    "question": "Floppy disks which are made from flexible plastic material are also called?",
+    "options": ["Hard disks", "High-density disks", "Diskettes", "Templates"],
+    "answer": "Diskettes"
+  },
+  {
+    "question": "The magnetic storage chip used to provide non-volatile direct access storage of data and that have no moving parts are known as",
+    "options": ["Magnetic core memory", "Magnetic tape memory", "Magnetic disk memory", "Magnetic bubble memory"],
+    "answer": "Magnetic bubble memory"
+  },
+  {
+    "question": "A collection of related instructions organized for a common purpose is referred to as",
+    "options": ["File", "Database", "Program", "None of above"],
+    "answer": "Program"
+  },
+  {
+    "question": "Plotter accuracy is measured in terms of repeatability and",
+    "options": ["Buffer size", "Resolution", "Vertical dimensions", "Intelligence"],
+    "answer": "Resolution"
+  },
+  {
+    "question": "Computer instructions written with the use of English words instead of binary machine code is called",
+    "options": ["Mnemonics", "Symbolic code", "Gray codes", "Opcode"],
+    "answer": "Symbolic code"
+  },
+  {
+    "question": "Which language is directly understood by the computer without translation program?",
+    "options": ["Machine language", "Assembly language", "High level language", "None of above"],
+    "answer": "Machine language"
+  },
+  {
+    "question": "On which aspect the analog computers are better than digital?",
+    "options": ["Speed", "Accuracy", "Reliability", "Automatic"],
+    "answer": "Accuracy"
+  },
+  {
+    "question": "Which of the following processors use RISC technology?",
+    "options": ["486dx", "Power PC", "486sx", "6340"],
+    "answer": "Power PC"
+  },
+  {
+    "question": "Which of the following machine was not invented by Charles Babbage?",
+    "options": ["Tabulating Machine", "Analytical Engine", "Difference Engine", "Both C and D"],
+    "answer": "Tabulating Machine"
+  },
+  {
+    "question": "How many numbers could ENIAC store in its internal memory?",
+    "options": ["100", "20", "80", "40"],
+    "answer": "20"
+  },
+   {
+    "question": "The subject of cybernetics deals with the science of",
+    "options": ["Genetics", "Control and communication", "Molecular biology", "Biochemistry"],
+    "answer": "Control and communication"
+  },
+  {
+    "question": "Why ABC is considered electro-mechanical computer?",
+    "options": ["Because it was invented before electronic computers were developed", "Because there are wheels, drums, bars to rotate and move to produce result", "Because they use the flow of electrons in different component", "None of above"],
+    "answer": "Because there are wheels, drums, bars to rotate and move to produce result"
+  },
+  {
+    "question": "Binary circuit elements have",
+    "options": ["One stable state", "Two stable state", "Three stable state", "None of above"],
+    "answer": "Two stable state"
+  },
+  {
+    "question": "Which of the following is used for manufacturing chips?",
+    "options": ["Control bus", "Control unit", "Parity unit", "Semiconductor"],
+    "answer": "Semiconductor"
+  },
+  {
+    "question": "Which of the following is not a micro computer?",
+    "options": ["Laptop PCs", "Tablet PCs", "Desktop PCs", "None of above"],
+    "answer": "None of above"
+  },
+  {
+    "question": "A typical personal computer used for business purpose would have....... Of RAM.",
+    "options": ["4 K", "16 K", "64 K", "256 K"],
+    "answer": "256 K"
+  },
+  {
+    "question": "The ALU of a computer normally contains a number of high speed of storage element called.",
+    "options": ["Semiconductor memory", "Registers", "Hard disks", "Magnetic disks"],
+    "answer": "Registers"
+  }
+]
