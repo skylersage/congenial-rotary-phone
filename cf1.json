@@ -55,7 +55,7 @@
     "answer": "World Wide Web Consortium"
   },
   {
-    "question": "What is the full form of W3C? (Duplicate Question - Answer provided as per sheet)",
+    "question": "What is the full form of W3C?",
     "options": ["World Wide Web Consortium", "World Wide Web Company", "World Wide Web Center", "None of these"],
     "answer": "World Wide Web Consortium"
   },
@@ -75,7 +75,7 @@
     "answer": "Process Control"
   },
   {
-    "question": "Which of the following is an example of a Real Time Operating System? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which of the following is an example of a Real Time Operating System?",
     "options": ["Linux", "Palm OS", "Windows CE", "Process Control"],
     "answer": "Process Control"
   },
@@ -90,7 +90,7 @@
     "answer": "All of the above"
   },
   {
-    "question": "Which button might you find in a windows title bar? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which button might you find in a windows title bar?",
     "options": ["Minimize button", "Maximize button", "Close button", "All of the above"],
     "answer": "All of the above"
   },
@@ -100,7 +100,7 @@
     "answer": "Backup"
   },
   {
-    "question": "Which is not a system tool? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which is not a system tool?",
     "options": ["Folder", "Backup", "Scandisk", "Format"],
     "answer": "Backup"
   },
@@ -110,12 +110,12 @@
     "answer": "All of above"
   },
   {
-    "question": "Which operating system can you give the smallest file name? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which operating system can you give the smallest file name?",
     "options": ["PS/2", "DOS 5.0", "Windows 3.1", "All of above"],
     "answer": "All of above"
   },
   {
-    "question": "Which operating system can you give the smallest file name? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which operating system can you give the smallest file name?",
     "options": ["PS/2", "DOS 5.0", "Windows 3.1", "All of above"],
     "answer": "All of above"
   },
@@ -130,7 +130,7 @@
     "answer": "Accessories"
   },
   {
-    "question": "Which of the following is program group? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which of the following is program group?",
     "options": ["Word Pad", "Paint Brush", "MS Word", "Accessories"],
     "answer": "Accessories"
   },
@@ -145,7 +145,7 @@
     "answer": "Megabyte"
   },
   {
-    "question": "Which of the following is the smallest storage? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which of the following is the smallest storage?",
     "options": ["Megabyte", "Gigabyte", "Terabyte", "None of these"],
     "answer": "Megabyte"
   },
@@ -155,7 +155,7 @@
     "answer": "255"
   },
   {
-    "question": "A filename can have a maximum length of ... characters in Windows 95? (Duplicate Question - Answer provided as per sheet)",
+    "question": "A filename can have a maximum length of ... characters in Windows 95?",
     "options": ["8", "64", "255", "None of these"],
     "answer": "255"
   },
@@ -165,7 +165,7 @@
     "answer": "Button on taskbar"
   },
   {
-    "question": "The running of any program in Windows 95 is shown by (Duplicate Question - Answer provided as per sheet)",
+    "question": "The running of any program in Windows 95 is shown by",
     "options": ["Minimized window", "Maximized window", "Button on taskbar", "None of these"],
     "answer": "Button on taskbar"
   },
@@ -175,7 +175,7 @@
     "answer": "Multitasking"
   },
   {
-    "question": "Running multiple programs at the same time is called (Duplicate Question - Answer provided as per sheet)",
+    "question": "Running multiple programs at the same time is called",
     "options": ["Multitasking", "Foreground tasking", "Background tasking", "All of above"],
     "answer": "Multitasking"
   },
@@ -185,7 +185,7 @@
     "answer": "Windows 3.1"
   },
   {
-    "question": "Which operating system doesn't support networking between computers? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which operating system doesn't support networking between computers?",
     "options": ["Windows 3.1", "Windows 95", "Windows 2000", "Windows NT"],
     "answer": "Windows 3.1"
   },
@@ -195,7 +195,7 @@
     "answer": "Windows 8"
   },
   {
-    "question": "Which is not a valid version of windows? (Duplicate Question - Answer provided as per sheet)",
+    "question": "Which is not a valid version of windows?",
     "options": ["Windows XP", "Windows Vista", "Windows 7", "Windows 8"],
     "answer": "Windows 8"
   },
