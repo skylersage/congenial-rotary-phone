@@ -462,7 +462,7 @@
   {
     "question": "Which of the following is not a secondary storage device?",
     "options": ["Hard disk drive", "CD-ROM drive", "ROM", "Tape drive"],
-    "answer": "Tape drive"
+    "answer": "ROM"
   },
   {
     "question": "Which of the following is not an internal part of computer?",
@@ -477,7 +477,7 @@
   {
     "question": "______ is any data or instructions sent to the computer.",
     "options": ["Digital", "Output", "Information", "Input"],
-    "answer": "Information"
+    "answer": "Input"
   },
   {
     "question": "The input device most commonly used to enter text would be the:",
