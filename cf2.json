@@ -107,7 +107,7 @@
   {
     "question": "A translator used in low level language is...",
     "options": ["Compiler", "Interpreter", "Assembler", "All of the above"],
-    "answer": "All of the above"
+    "answer": "Assembler"
   },
   {
     "question": "Which of the following is not an output device?",
@@ -117,7 +117,7 @@
   {
     "question": "Which of the following is soft copy output device?",
     "options": ["Speaker", "Monitor", "Digitizer", "Plotte"],
-    "answer": "Monitor"
+    "answer": "Both A & B"
   },
   {
     "question": "1KB......bytes.",
@@ -182,7 +182,7 @@
   {
     "question": "Which is the function of ROMBIOS?",
     "options": ["POST operation", "Boot start up operation", "Bootstrap loading", "Both a and b"],
-    "answer": "Both a and b"
+    "answer": "Both A and B"
   },
   {
     "question": "An input device used in bank is......",
@@ -237,7 +237,7 @@
   {
     "question": "Which of the following terms is most closely related to auxiliary memory?",
     "options": ["Nonvolatile", "Permanent", "Both a and b", "Temporary"],
-    "answer": "Both a and b"
+    "answer": "Both A and B"
   },
   {
     "question": "Which of the following is not a type of ROM?",
@@ -407,7 +407,7 @@
   {
     "question": "Which of the following is the low level language?",
     "options": ["Assembly", "Machine", "Both a and b", "Natural language"],
-    "answer": "Both a and b"
+    "answer": "Both A and B"
   },
   {
     "question": "Which one is removable disk?",
