@@ -340,9 +340,9 @@
     "answer": "electronic devices"
   },
   {
-    "question": "Which of the following memories need refresh?",
-    "options": ["SRAM", "DRAM", "ROM", "All of the above"],
-    "answer": "DRAM"
+  "question": "Which memory is volatile and loses data when power is turned off?",
+  "options": ["ROM", "RAM", "Hard Disk", "CD-ROM"],
+  "answer": "RAM"
   },
   {
     "question": "Which of the following computer implemented binary numbers, perform calculations using electronics and implemented separate computation and memory for the first time?",
@@ -354,11 +354,11 @@
     "options": ["File Translation", "Format Translation", "Formula Translation", "Floppy Translation"],
     "answer": "Formula Translation"
   },
-  {
-    "question": "Which of the following memories needs refreshing?",
-    "options": ["SRAM", "DRAM", "ROM", "All of above"],
-    "answer": "DRAM"
-  },
+ {
+  "question": "Which type of memory is non-volatile and used to store firmware?",
+  "options": ["RAM", "Cache Memory", "ROM", "Register"],
+  "answer": "ROM"
+ },
   {
     "question": "Can you tell what passes into and out from the computer via its ports?",
     "options": ["Data", "Bytes", "Graphics", "Pictures"],
@@ -447,7 +447,7 @@
   {
     "question": "On which aspect the analog computers are better than digital?",
     "options": ["Speed", "Accuracy", "Reliability", "Automatic"],
-    "answer": "Accuracy"
+    "answer": "Speed"
   },
   {
     "question": "Which of the following processors use RISC technology?",
