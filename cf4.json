@@ -227,12 +227,12 @@
   {
     "question": "Which unit is known as nerve center of computer?",
     "options": ["ALU", "CU", "Memory", "Registers"],
-    "answer": "ALU"
+    "answer": "CU"
   },
   {
     "question": "What does the disk drive of a computer do?",
     "options": ["Rotate the disk", "Read the disk", "Load a program from the disk into the memory", "Both b and c"],
-    "answer": "Both b and c"
+    "answer": "Both B and C"
   },
   {
     "question": "Access time is",
