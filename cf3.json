@@ -456,8 +456,8 @@
   },
   {
     "question": "Which of the following is not an output device?",
-    "options": ["RAM", "ROM", "CPU", "CD-ROM"],
-    "answer": "ROM"
+    "options": ["RAM", "ROM", "CPU", "All of the above"],
+    "answer": "All of the above"
   },
   {
     "question": "Which of the following is not a secondary storage device?",
