@@ -451,7 +451,7 @@
   },
   {
     "question": "Which of the following is an output device?",
-    "options": ["Keyboard", "Speaker", "Mouse", "Microphone", "Monitor", "RAM", "Printer"],
+    "options": ["Keyboard", "Speaker", "Mouse", "Microphone"],
     "answer": "Speaker"
   },
   {
